@@ -18,7 +18,7 @@ Dataset Link: https://www.dropbox.com/scl/fi/0uiujtei423te1q4kvrny/diabetes.csv?
 * Using groupby() function on the ['Outcome'] labelled Data to find the mean of each Feature Depending on 0's and 1's.
 * We now Seperate the labelled Data from Numerical Data using the drop function and storing the remaining features into the 'X' variable and only the labelled Data into the 'Y' variable.
 
-#Step 3: Data Standardization.
+# Step 3: Data Standardization.
 * We store all the method/function from StandaredScaler() library.
 * We now Fit the Numerical Dta('X') into the 'Scaler' Variable.
 * After fitting it into the Scaler Variable we Transform it and store it into another variable 'standardized_data'.
