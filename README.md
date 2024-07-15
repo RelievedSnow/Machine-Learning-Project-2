@@ -1,5 +1,5 @@
 # Machine-Learning-Project-2
-# Prject 2: Diabetes Prediction.
+Project 2: Diabetes Prediction.
 Dataset Link: https://www.dropbox.com/scl/fi/0uiujtei423te1q4kvrny/diabetes.csv?rlkey=20xvytca6xbio4vsowi2hdj8e&e=4&dl=0 
 
 # Step 1: Importing Dependencies
